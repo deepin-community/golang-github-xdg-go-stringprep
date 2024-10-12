@@ -1,5 +1,24 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-xdg-go-stringprep (1.0.4-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release.
+  * Switch to Standards-Version 4.6.2 (no changes needed).
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Guillem Jover <gjover@sipwise.com>  Sat, 09 Sep 2023 00:53:37 +0200
+
+golang-github-xdg-go-stringprep (1.0.3-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <gjover@sipwise.com>  Fri, 11 Mar 2022 20:05:31 +0100
+
+golang-github-xdg-go-stringprep (1.0.2-2) unstable; urgency=medium
+
+  * Move R³ before build dependency fields.
+
+ -- Guillem Jover <gjover@sipwise.com>  Mon, 13 Dec 2021 17:54:13 +0100
+
+golang-github-xdg-go-stringprep (1.0.2-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1001024)
+
+ -- Guillem Jover <gjover@sipwise.com>  Thu, 02 Dec 2021 21:51:04 +0100
